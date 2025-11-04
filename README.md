@@ -8,14 +8,18 @@
 ---
 
 ## 💫 About Me  
-
-Hey there! I'm **Aashu Kumar**, a **Computer Science student** at Scaler School of Technology 🎓  
-I’m a **creative technologist** who loves blending **logic + design** to build experiences that are **useful, elegant, and scalable**.  
-
-💡 **What drives me:** curiosity, creativity, and the constant urge to improve.  
-🌱 **What I’m learning:** Spring Boot, Machine Learning, and Data Structures.  
-🔥 **Current goal:** contribute to **Google Summer of Code (GSoC)** and land an early internship.  
-🎯 **Long-term vision:** create tools that make learning and problem-solving fun.  
+```yaml
+Name: Aashu Kumar
+Role: Computer Science Student | Full Stack Developer | ML Enthusiast
+Current Focus:
+  - Deep dive into Machine Learning & Spring Boot
+  - Strengthen problem-solving with DSA
+  - Contribute to impactful Open Source projects (GSoC 🔥)
+Learning Style: "Learn by building projects"
+Interests: ["AI-driven apps", "3D web experiences", "System Design", "Creative tech"]
+Goal: "To build technology that helps, inspires, and earns self-sufficienc
+🎯Long-term vision: create tools that make learning and problem-solving fun.  
+```
 
 ---
 
@@ -42,7 +46,10 @@ I’m a **creative technologist** who loves blending **logic + design** to build
 </p>
 
 ---
+## 🧮 My LeetCode Progress
+<p align="center"> <a href="https://leetcode.com/u/aashu273k/"> <img src="https://leetcard.jacoblin.cool/aashu273k?ext=heatmap&theme=dark&font=Baloo%202&border=0&radius=12" alt="LeetCode Stats"/> </a> </p>
 
+---
 ## 🪄 Featured Projects  
 
 <p align="center">
@@ -91,7 +98,7 @@ I’m a **creative technologist** who loves blending **logic + design** to build
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashu273k">
+  <a href="https://linkedin.com/in/aashu273k" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://github.com/ashu273k">
