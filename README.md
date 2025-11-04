@@ -1,21 +1,119 @@
-# 💫 About Me:
-Hello there! I'm Aashu, a code enthusiast with a love for problem-solving and continuous learning.  I'm currently diving into the worlds of Python, Go, and C. Let's connect and build something awesome together!<br>I am fresher at Scaler School of Technology pursuing bachelor in computer science<br>👋 Hi, I’m Aashu Kumar<br>👀 I’m interested in Development<br>🌱 I’m currently learning JavaScript<br>💞️ I’m looking to collaborate on Open source<br>📫 How to reach me Gmail: ashu9472.as@gmail.com<br>😄 Pronouns: Him.<br>⚡ Fun fact: I like Gulab Jammun.😊
+<!-- ────────────────────────────── ✦ ────────────────────────────── -->
+<h1 align="center">✨ Hey there, I'm Aashu Kumar 👋</h1>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashu273k_76083) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashu_273k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashu273k) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashu273k&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashu273k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu273k&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashu273k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57E0&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashu273k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+
+Hey there! I'm **Aashu Kumar**, a **Computer Science student** at Scaler School of Technology 🎓  
+I’m a **creative technologist** who loves blending **logic + design** to build experiences that are **useful, elegant, and scalable**.  
+
+💡 **What drives me:** curiosity, creativity, and the constant urge to improve.  
+🌱 **What I’m learning:** Spring Boot, Machine Learning, and Data Structures.  
+🔥 **Current goal:** contribute to **Google Summer of Code (GSoC)** and land an early internship.  
+🎯 **Long-term vision:** create tools that make learning and problem-solving fun.  
+
+---
+
+## 🧠 My Philosophy  
+
+> "I don’t just write code — I design systems, craft experiences, and tell stories through pixels and logic."
+
+---
+
+## 🏅 Holopin Board  
+
+<p align="center">
+  <a href="https://holopin.io/@ashu273k">
+    <img src="https://holopin.me/ashu273k" alt="@ashu273k's Holopin board" width="700"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,express,mongodb,html,css,js,git,github,vscode,linux,figma" height="45"/>
+</p>
+
+---
+
+## 🪄 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/ashu273k/Multi-threaded-HTTP-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu273k&repo=Multi-threaded-HTTP-server&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ashu273k/Scory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu273k&repo=Scory&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashu273k&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ashu273k&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu273k&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🎵 What I'm Listening To  
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31c6jptlwv65e7tcpr6kld4t4j2y"> <!-- replace with your Spotify user link -->
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=141321&border_color=6E57E0" alt="Spotify Now Playing" width="500"/>
+  </a>
+</p>
+
+---
+
+## 🌱 Current Focus  
+
+- 🔭 Exploring **Machine Learning**, **Spring Boot**, and **Open Source**  
+- 💻 Building projects that combine creativity and logic  
+- 🧩 Strengthening problem-solving via **LeetCode & DSA**  
+- ☕ Learning **design thinking** and human-centered software development  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashu273k">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/ashu273k">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://holopin.io/@ashu273k">
+    <img src="https://holopin.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-mark.3e1c8e5e.png&w=64&q=75" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🐍 GitHub Activity Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashu273k/ashu273k/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <em>💫 “Code. Design. Innovate. Repeat.” 💫</em>
+</p>
+
+<!-- ────────────────────────────── ✦ ────────────────────────────── -->
