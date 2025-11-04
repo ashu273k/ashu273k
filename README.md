@@ -101,14 +101,17 @@ Long-term vision: "create tools that make learning and problem-solving fun."
   <a href="https://linkedin.com/in/aashu273k" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://github.com/ashu273k">
+  <a href="https://github.com/ashu273k" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="mailto:ashu9472.as@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-   <a href="https://leetcode.com/u/aashu273k/">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashu9472.as@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+
+   <a href="https://leetcode.com/u/aashu273k/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode"/>
   </a>
-  <a href="https://www.instagram.com/ashu273k/">
+  <a href="https://www.instagram.com/ashu_273k/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram"/>
   </a>
 
