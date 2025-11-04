@@ -104,9 +104,15 @@ Goal: "To build technology that helps, inspires, and earns self-sufficienc
   <a href="https://github.com/ashu273k">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://holopin.io/@ashu273k">
-    <img src="https://holopin.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-mark.3e1c8e5e.png&w=64&q=75" height="40"/>
+  <a href="https://www.instagram.com/ashu273k/">
+    <img src="https://www.flaticon.com/free-icon/instagram_717392?term=instagram&page=1&position=8&origin=tag&related_id=717392" height="40" alt="Instagram"/>
   </a>
+  <a href="mailto:ashu9472.as@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://leetcode.com/u/aashu273k/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://holopin.io/@ashu273k">
+  <img src="https://holopin.me/ashu273k" height="40" alt="Holopin Badge Board" />
+</a>
+
 </p>
 
 ---
