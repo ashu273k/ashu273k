@@ -14,11 +14,11 @@ Role: Computer Science Student | Full Stack Developer | ML Enthusiast
 Current Focus:
   - Deep dive into Machine Learning & Spring Boot
   - Strengthen problem-solving with DSA
-  - Contribute to impactful Open Source projects (GSoC 🔥)
+  - Contribute to impactful Open Source projects 
 Learning Style: "Learn by building projects"
 Interests: ["AI-driven apps", "3D web experiences", "System Design", "Creative tech"]
-Goal: "To build technology that helps, inspires, and earns self-sufficienc
-🎯Long-term vision: create tools that make learning and problem-solving fun.  
+Goal: "To build technology that helps, inspires, and earns self-sufficiency"
+Long-term vision: "create tools that make learning and problem-solving fun."  
 ```
 
 ---
@@ -104,14 +104,13 @@ Goal: "To build technology that helps, inspires, and earns self-sufficienc
   <a href="https://github.com/ashu273k">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://www.instagram.com/ashu273k/">
-    <img src="https://www.flaticon.com/free-icon/instagram_717392?term=instagram&page=1&position=8&origin=tag&related_id=717392" height="40" alt="Instagram"/>
-  </a>
   <a href="mailto:ashu9472.as@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://leetcode.com/u/aashu273k/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-  <a href="https://holopin.io/@ashu273k">
-  <img src="https://holopin.me/ashu273k" height="40" alt="Holopin Badge Board" />
-</a>
+   <a href="https://leetcode.com/u/aashu273k/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode"/>
+  </a>
+  <a href="https://www.instagram.com/ashu273k/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram"/>
+  </a>
 
 </p>
 
