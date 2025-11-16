@@ -1,6 +1,12 @@
 <!-- ────────────────────────────── ✦ ────────────────────────────── -->
 <h1 align="center">✨ Hey there, I'm Aashu Kumar 👋</h1>
 
+## 💖 Sponsors
+
+If you like my work, consider sponsoring me:  
+❤️ [Click here](https://github.com/sponsors/ashu273k)
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57E0&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
