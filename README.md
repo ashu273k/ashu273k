@@ -56,31 +56,6 @@ Long-term vision: "create tools that make learning and problem-solving fun."
 <p align="center"> <a href="https://leetcode.com/u/aashu273k/"> <img src="https://leetcard.jacoblin.cool/aashu273k?ext=heatmap&theme=dark&font=Baloo%202&border=0&radius=12" alt="LeetCode Stats"/> </a> </p>
 
 ---
-## 🪄 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/ashu273k/Multi-threaded-HTTP-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu273k&repo=Multi-threaded-HTTP-server&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/ashu273k/Scory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashu273k&repo=Scory&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu273k&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ashu273k&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu273k&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🎵 What I'm Listening To  
 
