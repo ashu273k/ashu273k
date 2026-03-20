@@ -13,7 +13,7 @@ If you like my work, consider sponsoring me:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashu273k\&label=Profile%20Views\&color=blue\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ashu273k\&label=Profile%20Views\&color=green\&style=flat)
 
 ## 💫 About Me  
 ```yaml
