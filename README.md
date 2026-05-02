@@ -59,16 +59,6 @@ Long-term vision: "create tools that make learning and problem-solving fun."
 
 ---
 
-## 🎵 What I'm Listening To  
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31c6jptlwv65e7tcpr6kld4t4j2y"> <!-- replace with your Spotify user link -->
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=141321&border_color=6E57E0" alt="Spotify Now Playing" width="500"/>
-  </a>
-</p>
-
----
-
 ## 🌱 Current Focus  
 
 - 🔭 Exploring **Machine Learning**, **Spring Boot**, and **Open Source**  
